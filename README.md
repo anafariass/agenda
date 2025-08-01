@@ -39,7 +39,7 @@ Este projeto foi desenvolvido em grupo como uma atividade prática. A ideia era 
 
 📁 Estrutura do Projeto
 
-```bash
+´´´bash
 agenda/
 ├── __pycache__/
 │   └── agenda.cpython-311.pyc
@@ -50,7 +50,7 @@ agenda/
 │   ├── compromissos.txt
 │   └── tarefa.txt
 🚀 Como Executar
-bash
+```
 
 ---
 
