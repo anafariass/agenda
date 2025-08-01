@@ -37,9 +37,9 @@ Este projeto foi desenvolvido em grupo como uma atividade prática. A ideia era 
 
 💻 Execução via terminal
 
-📁 Estrutura do Projeto
+# Estrutura do Projeto
 
-´´´bash
+```bash
 agenda/
 ├── __pycache__/
 │   └── agenda.cpython-311.pyc
@@ -50,8 +50,7 @@ agenda/
 │   ├── compromissos.txt
 │   └── tarefa.txt
 🚀 Como Executar
-```
-
+´´´
 ---
 
 # 1. Navegue até a pasta onde está o projeto
