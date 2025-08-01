@@ -2,9 +2,10 @@
 
 > Um sistema de agenda pessoal simples, funcional e feito com muito esforço coletivo!
 >Permite gerenciar contatos, tarefas e compromissos usando Python e arquivos .txt.
-> 
+
+
 # Sobre o Projeto
-Este projeto foi desenvolvido em grupo como uma atividade prática. A ideia era criar um sistema completo de agenda pessoal, com funcionalidades para:
+*Este projeto foi desenvolvido em grupo como uma atividade prática. A ideia era criar um sistema completo de agenda pessoal, com funcionalidades para:*
 
 - Gerenciar Contatos
 
@@ -49,15 +50,17 @@ agenda/
 │   ├── agenda.txt
 │   ├── compromissos.txt
 │   └── tarefa.txt
-🚀 Como Executar
-´´´
+
+bash
+
 ---
+# Como Executar:
 
-# 1. Navegue até a pasta onde está o projeto
--cd teste/
+1. Navegue até a pasta onde está o projeto
+- cd teste/
 
-# 2. Execute o arquivo principal
--python agenda.py
+2. Execute o arquivo principal
+- python agenda.py
 
 ---
 
@@ -82,5 +85,5 @@ Menu:
 =====================================
 
 
-### Licença
+# Licença
 Este projeto é de uso acadêmico e educacional. Fique à vontade para estudar e adaptar! 
